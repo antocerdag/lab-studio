@@ -53,15 +53,25 @@
 	font-weight: 700;
 }
 .texto-inicio button{
-	background-color: #FED136;
-  width: 14%;
+  background-color: #FED136;
+  width: 192px;
   height: 66px;
   margin-top: 50px;
+  font-size: 19px;
+	font-weight: 700;
 }
 
-.texto-inicio button a{
-	color: white;
-	font-family: 'Open Sans', sans-serif;
+
+
+/* SERVICES */ 
+
+.services .container .row img{
+  width: 30%;
+  margin-left: 34%;
+  margin-top: 60px;
+  margin-bottom: 27px;
+}
+
+.services .container .row h4{
 	font-weight: 700;
-	font-size: 15px;
 }

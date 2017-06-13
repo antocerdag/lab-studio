@@ -1,0 +1,19 @@
+.titulo-seccion{
+	font-weight: 700;
+	font-size: 46px;
+	margin-top: 90px;
+
+}
+.bajada-titulo{
+	font-family: 'Merriweather', serif;
+	color: #CCCCCC;
+	font-weight: 300;
+}
+
+/* PORTFOLIO */
+
+.img-portfolio{
+	width: 80%;
+  margin-left: 9%;
+  margin-top: 100px;
+}
