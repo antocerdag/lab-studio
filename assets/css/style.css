@@ -1,1 +1,67 @@
-style.css
+*{
+	padding: 0;
+	margin: 0;
+	font-family: 'Open Sans', sans-serif;
+}
+
+/* BACKGROUND */
+
+.text-uppercase{
+	text-transform: uppercase;
+}
+
+.navbar-background{
+	background-image: url(../img/header-bg.jpg);
+	background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.navbar a{
+	color:#FED136;
+	font-family: 'Kaushan Script', cursive;
+	font-size: 27px;
+}
+.navbar a:hover{
+	color:white;
+}
+.navbar ul li a {
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+	font-size:15px;
+}
+
+.navbar ul li a:hover {
+	color:#FED136;
+	background-color: transparent;
+}
+
+.texto-inicio{
+	margin-top: 150px;
+  margin-bottom: 150px;
+
+}
+
+.texto-inicio h3{
+	color: white;
+	font-size: 56px;
+	font-family: 'Merriweather', serif;
+}
+
+.texto-inicio h1{
+	color: white;
+	font-size:70px;
+	font-weight: 700;
+}
+.texto-inicio button{
+	background-color: #FED136;
+  width: 14%;
+  height: 66px;
+  margin-top: 50px;
+}
+
+.texto-inicio button a{
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 700;
+	font-size: 15px;
+}
