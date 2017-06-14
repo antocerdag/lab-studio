@@ -4,10 +4,16 @@
 	font-family: 'Open Sans', sans-serif;
 }
 
-/* BACKGROUND */
+/* NAVBAR */
 
 .text-uppercase{
 	text-transform: uppercase;
+}
+
+.navbar{
+	position: fixed;
+	z-index: 1;
+	width: 100%;
 }
 
 .navbar-background{
@@ -31,8 +37,8 @@
 }
 
 .navbar ul li a:hover {
-	color:#FED136;
-	background-color: transparent;
+	color: white;
+	background-color: #FED136;
 }
 
 .texto-inicio{
@@ -117,4 +123,14 @@
   font-size: 19px;
 	font-weight: 700;
 	margin-bottom: 100px;
+}
+
+/* FOOTER */
+
+footer{
+	height: 50px;
+}
+
+.margin-top-2{
+  margin-top: 30px;
 }

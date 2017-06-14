@@ -144,3 +144,9 @@
 .contact textarea{
 	padding: 15px;
 }
+
+/* FOOTER */
+footer a{
+	color:  #FED136;
+	text-decoration: none;
+}
