@@ -122,3 +122,25 @@
 	-webkit-border-radius: 50%;
 	width: 171px;
 }
+
+/* LOGOS */
+
+.logos{
+	padding: 50px;
+}
+
+/* CONTACT */ 
+.titulo-seccion-2 {
+	color: white;
+	font-weight: 700;
+	font-size: 46px;
+	margin-top: 90px;
+}
+.contact input {
+	padding: 24px;
+  margin-bottom: 20px;
+}
+
+.contact textarea{
+	padding: 15px;
+}

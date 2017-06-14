@@ -94,3 +94,27 @@
 .team{
 	background-color: #EEEEEE;	
 }
+
+/* CONTACT */
+
+.contact{
+	background-color: #222222;
+}
+
+.fondo-mapa{
+	background-image: url(../img/map-image.png);
+	background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 63px;
+}
+
+.btn-send{
+	background-color: #FED136;
+  width: 192px;
+  height: 66px;
+  margin-top: 50px;
+  font-size: 19px;
+	font-weight: 700;
+	margin-bottom: 100px;
+}
