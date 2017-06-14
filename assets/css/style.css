@@ -86,14 +86,9 @@
 	background-color: #EEEEEE;
 }
 
-.portfolio .container .row h4{
-	font-weight: 700;
-	margin-top:15px;
-	font-size: 20px;
-}
-.portfolio .container .row h6{
-	font-weight: 300;
-	margin-top:15px;
-	font-family: 'Merriweather', serif;
-	font-size: 15px;
+/* ABOUT */ 
+
+/* TEAM */
+.team{
+	background-color: #EEEEEE;	
 }

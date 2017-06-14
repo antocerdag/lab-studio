@@ -21,3 +21,66 @@
 .margin-bottom{
 	margin-bottom: 100px;
 }
+
+.tamanio-thumbnail{
+	width: 293px;
+  margin-left: 8%;
+  margin-bottom: 130px;
+}
+
+.portfolio .container .row h4{
+	font-weight: 700;
+	margin-top:15px;
+	font-size: 20px;
+}
+.portfolio .container .row h6{
+	font-weight: 300;
+	margin-top:15px;
+	font-family: 'Merriweather', serif;
+	font-size: 15px;
+	margin-bottom: 27px;
+}
+
+/* ABOUT */ 
+
+.margin-top{
+	margin-top:60px;
+}
+
+.text-izq{
+	width: 360px;
+  text-align: right;
+  margin-left: 10%;
+}
+.text-izq h4{
+	font-weight: 700;
+}
+
+.text-izq p{
+	font-family: 'Merriweather', serif;
+  color: #CCCCCC;
+  font-weight: 300;
+}
+.img-circle{
+	background-color: #fff;
+	border: 6px solid #E6E6E6;
+	border-radius: 50%;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	width: 171px;
+}
+
+.text-der{
+    width: 360px;
+    text-align: left;
+}
+
+.text-der h4{
+	font-weight: 700;
+}
+
+.text-der p{
+	font-family: 'Merriweather', serif;
+  color: #CCCCCC;
+  font-weight: 300;
+}
