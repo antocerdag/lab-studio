@@ -87,7 +87,9 @@
 }
 
 /* ABOUT */ 
-
+.margin-bottom{
+	margin-bottom: 100px;
+}
 /* TEAM */
 .team{
 	background-color: #EEEEEE;	
